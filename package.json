@@ -1,0 +1,23 @@
+{
+  "name": "bobs-bagels",
+  "version": "1.0.0",
+  "description": "Bob's Bagels JS project",
+  "main": "main.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alysha-j/bobs-bagels.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alysha-j/bobs-bagels/issues"
+  },
+  "homepage": "https://github.com/alysha-j/bobs-bagels#readme"
+}
